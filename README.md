@@ -1,4 +1,13 @@
-### Hi there 👋
+<pre>
+----------------------------------------
+<span>Thien Pi, Hello World!</span>
+----------------------------------------
+      \   ^__^
+       \  (oo)\_______
+          (__)\ 0   0 )\  *
+              ||--0-w | \/
+              ||     ||
+</pre>
 
 <!--
 **blqthien/blqthien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
